@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\GameManager.js" />
      <Compile Include="Assets\Scripts\GameSetup.js" />
      <Compile Include="Assets\Scripts\PlayerControls.js" />
+     <Compile Include="Assets\Scripts\PlayerTouchMovement.js" />
      <Compile Include="Assets\Scripts\SideWalls.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
